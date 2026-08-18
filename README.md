@@ -8,8 +8,6 @@ Este repositório documenta a minha evolução técnica e os exercícios prátic
 
 ## 🗂️ Estrutura de Ficheiros
 *(Os ficheiros serão adicionados aqui à medida que os formos criando)*
-- `exercicio_01_try_except.py` *(em breve)*
 - `exercicio_02_funcoes.py` *(em breve)*
-
 ---
-*Construído passo a passo com foco em resolução de problemas reais. | [O Seu Nome]*
+*Construído passo a passo com foco em resolução de problemas reais. | Diego Rios*
